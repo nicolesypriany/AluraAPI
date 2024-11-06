@@ -1,0 +1,6 @@
+@AluraNET6WebApi_HostAddress = http://localhost:5011
+
+GET {{AluraNET6WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
